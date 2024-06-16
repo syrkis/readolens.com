@@ -1,7 +1,7 @@
 <div class="container">
     <h1>READOLENS</h1>
     <span>
-        We're shutting down the service. Thanks for the support.
+        We're shutting down. Thanks for the support.
     </span>
     <br/>
     <span>
